@@ -6,6 +6,8 @@ Created on Tue Sep 15 10:59:56 2020
 @author: k
 """
 
+###this code is for selecting [NeV] emission objects, compute SNR and simply fit a gaussian profile to find the linecenter
+
 from astropy.io import fits
 from astropy import constants as const
 import numpy as np
